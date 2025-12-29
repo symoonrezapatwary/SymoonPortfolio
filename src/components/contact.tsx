@@ -22,13 +22,13 @@ export function Contact() {
                         </p>
 
                         <div className="flex gap-4 pt-4">
-                            <Link href="#" className="p-3 rounded-full bg-background border border-white/10 hover:border-primary hover:text-primary transition-all hover:-translate-y-1">
+                            <Link href="https://www.linkedin.com/in/md-symoon-reza-patwary-anik-862126233/" target="_blank" className="p-3 rounded-full bg-background border border-white/10 hover:border-primary hover:text-primary transition-all hover:-translate-y-1">
                                 <Linkedin className="h-5 w-5" />
                             </Link>
                             <Link href="#" className="p-3 rounded-full bg-background border border-white/10 hover:border-primary hover:text-primary transition-all hover:-translate-y-1">
                                 <Github className="h-5 w-5" />
                             </Link>
-                            <Link href="mailto:symoonrezapatwaryanik9@gmail.com" className="p-3 rounded-full bg-background border border-white/10 hover:border-primary hover:text-primary transition-all hover:-translate-y-1">
+                            <Link href="mailto:symoonrezapatwaryanik@gmail.com" className="p-3 rounded-full bg-background border border-white/10 hover:border-primary hover:text-primary transition-all hover:-translate-y-1">
                                 <Mail className="h-5 w-5" />
                             </Link>
                         </div>
