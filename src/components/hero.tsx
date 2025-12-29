@@ -8,7 +8,7 @@ import { TechBackground } from "@/components/tech-background"
 
 export function Hero() {
     return (
-        <section className="relative flex min-h-screen items-center justify-center pt-16">
+        <section className="relative flex min-h-[calc(100vh-80px)] items-start justify-center pt-24 md:pt-32">
             <TechBackground />
 
             <div className="container mx-auto px-4 md:px-6 z-10">
