@@ -28,9 +28,9 @@ export function Contact() {
                             <Link href="#" className="p-3 rounded-full bg-background border border-white/10 hover:border-primary hover:text-primary transition-all hover:-translate-y-1">
                                 <Github className="h-5 w-5" />
                             </Link>
-                            <Link href="mailto:symoonrezapatwaryanik@gmail.com" className="p-3 rounded-full bg-background border border-white/10 hover:border-primary hover:text-primary transition-all hover:-translate-y-1">
+                            <a href="mailto:symoonrezapatwaryanik@gmail.com" className="p-3 rounded-full bg-background border border-white/10 hover:border-primary hover:text-primary transition-all hover:-translate-y-1">
                                 <Mail className="h-5 w-5" />
-                            </Link>
+                            </a>
                         </div>
                     </div>
 
